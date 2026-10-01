@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<rect width="120" height="120" rx="60" fill="#303a38"/>
+<path d="M28 43 Q60 20 92 43" fill="none" stroke="#c5b47d" stroke-width="2"/>
+<path d="M35 45 V72 Q60 92 85 72 V45" fill="none" stroke="#c5b47d" stroke-width="1.5"/>
+<text x="60" y="70" text-anchor="middle" font-family="Georgia,serif" font-size="34" font-weight="700" fill="#f4f1e8">MW</text>
+<path d="M47 82 Q60 75 73 82" fill="none" stroke="#c5b47d" stroke-width="1.5"/>
+</svg>
